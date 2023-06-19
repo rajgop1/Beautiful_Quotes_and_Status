@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beautiful Quotes and Status</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="quotes">Quotes</string>
+    <string name="status">Status</string>
+    <string name="birthday">Birthday</string>
+    <string name="anniversary">Anniversary</string>
+    <string name="inspirational">Inspirational</string>
+    <string name="motivational">Motivational</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="happiness">Happiness</string>
+    <string name="love">Love</string>
+</resources>
